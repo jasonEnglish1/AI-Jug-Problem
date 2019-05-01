@@ -1,0 +1,49 @@
+A Solution is possible
+Capacities: 
+[ 8 5 3 ]
+Solution Steps: 
+[ 8 0 0 ]
+[ 3 5 0 ]
+[ 3 2 3 ]
+[ 6 2 0 ]
+[ 6 0 2 ]
+[ 1 5 2 ]
+[ 1 4 3 ]
+[ 4 4 0 ]
+7 Moves Required
+Number of Nodes Expanded: 15
+Number of Nodes Unexpanded: 1
+
+No solution possible
+Capacities: 
+[ 8 5 3 ]
+Initial State: 
+[ 8 0 0 ]
+Goal State: 
+[ 4 2 2 ]
+No solution 
+Number of Nodes Expanded: 16
+Number of Nodes Unexpanded: 0
+
+A Solution is possible
+Capacities: 
+[ 6 4 2 ]
+Solution Steps: 
+[ 6 0 0 ]
+[ 4 0 2 ]
+[ 4 2 0 ]
+2 Moves Required
+Number of Nodes Expanded: 6
+Number of Nodes Unexpanded: 0
+
+No solution possible
+Capacities: 
+[ 6 4 2 ]
+Initial State: 
+[ 6 0 0 ]
+Goal State: 
+[ 3 3 0 ]
+No solution 
+Number of Nodes Expanded: 6
+Number of Nodes Unexpanded: 0
+
